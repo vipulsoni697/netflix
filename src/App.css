@@ -7,9 +7,13 @@
   background-color: #111;
 }
 
-@media (max-width:480px)
-{
-  .App{
-    overflow-x:hidden;
+.start__animation {
+  width: 100%;
+  height: 100vh;
+}
+
+@media (max-width: 480px) {
+  .App {
+    overflow-x: hidden;
   }
 }

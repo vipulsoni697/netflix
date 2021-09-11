@@ -14,7 +14,7 @@ function App() {
         setShowNetflixLogo(false);
       }, [2810]);
     }
-  },);
+  });
 
   return (
     <div className="App">
